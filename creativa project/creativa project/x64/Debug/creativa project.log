@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Mohaimen\source\repos\creativa project\creativa project\Source.cpp(141,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mohaimen\source\repos\creativa project\creativa project\Source.cpp(220,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mohaimen\source\repos\creativa project\creativa project\Source.cpp(421,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  creativa project.vcxproj -> C:\Users\Mohaimen\source\repos\creativa project\x64\Debug\creativa project.exe
